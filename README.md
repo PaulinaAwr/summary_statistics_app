@@ -1,1 +1,2 @@
-# summary_statistics_app
+# Summary statistics app
+
